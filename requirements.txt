@@ -1,0 +1,15 @@
+sqlalchemy~=2.0.35
+fastapi~=0.115.0
+uvicorn~=0.31.0
+psycopg2
+jinja2
+Fastapi-login
+Fastapi-logging
+python-multipart
+itsdangerous
+AuthenticationMiddleware
+passlib~=1.7.4
+python-jose
+bcrypt
+starlette~=0.38.6
+jose~=1.0.0
